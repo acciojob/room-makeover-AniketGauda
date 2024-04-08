@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+*{
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.favorite-color{
+    font-style: italic;
+    color: blue;
+}
